@@ -128,31 +128,31 @@ beyond-the-blue-marble/
 
 ## **Browser Support**
 
-    - Chrome, Firefox, Edge and Safari haev full support. 
-    - Compatible with mobile.
+   - Chrome, Firefox, Edge and Safari haev full support. 
+   - Compatible with mobile.
 
 ## **System Requirements**
 
-    - Modern web browser with WebGL support.
-    - Minimum 4GB RAM recommended.
-    - Dedicated graphics card recommended for best performance.
-    - Stable internet connection for loading assets.
+  - Modern web browser with WebGL support.
+  - Minimum 4GB RAM recommended.
+   - Dedicated graphics card recommended for best performance.
+   - Stable internet connection for loading assets.
 
 ## **Future Enhancements**
 
-    - Exoplanet systems: Explore planets beyond our solar system.
-    - Spacecraft missions: Historical and future space missions.
-    - Real-time data: Live astronomical data integration.
-    - Multi-language support: Accessibility for global users.
+  - Exoplanet systems: Explore planets beyond our solar system.
+  - Spacecraft missions: Historical and future space missions.
+  - Real-time data: Live astronomical data integration.
+  - Multi-language support: Accessibility for global users.
 
 ## **Limitations**
 
-    - Simplified orbits (circular). 
-    - Scale compromises: Sizes and distances are not to perfect scale for visibility.
-    - Large scenes may impact performance on older hardware.
+   - Simplified orbits (circular). 
+   - Scale compromises: Sizes and distances are not to perfect scale for visibility.
+   - Large scenes may impact performance on older hardware.
 
 ## **License**
-    - This project is open source and available under the MIT License.
+   - This project is open source and available under the MIT License.
 
 ## **Credits**
 
@@ -174,15 +174,14 @@ beyond-the-blue-marble/
 - ### **3D Models**
     - Comet model: [Asteroid](https://s3.amazonaws.com/files.free3d.com/models/123d/printable_catalog/10464_Asteroid_L3.123c72035d71-abea-4a34-9131-5e9eeeffadcb.zip?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA5DEPHINMSI4OS3OO%2F20250618%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250618T182303Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1200&X-Amz-Signature=acfd3c1fb4c65331b1c1061cd3931893c891b9430426cd89edca2dd882f4791d).
     - Rocket model: [Rocket](https://s3.amazonaws.com/files.free3d.com/models/123d/printable_catalog/Rocket_Ship_v1_L3.123c485c9e1d-6d02-47cf-b751-9606e55c8fa1.zip?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA5DEPHINMSI4OS3OO%2F20250618%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250618T142924Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1200&X-Amz-Signature=b8edc385ad7c7dd7d2cd4e392b24ee5677d93eca134dbec45487a8b30c0e16cb).
-    - Spaceship model: 
+    - Spaceship model: [Spaceship](https://free3d.com/3d-model/intergalactic-spaceship-in-blender-28-eevee-394046.html).
 
 - ### **Sounds**
     - Background music: [Calm space music](https://cdn.pixabay.com/download/audio/2025/03/11/audio_03e017e1e5.mp3?filename=calm-space-music-312291.mp3).
 
-
 ## **Assistance**
 
-    - Portions of the code structure and logic were guided by help from chatGPT (OpenAI) and Claude (Anthropic). 
-    - Additionally, textures mentioned above were generated with help from Gemini (Google).
-    - Specific help included assistance with Three.js, camera and scene setup, camera transitions, ship movements and mesh rendering. 
-    - All code was written and understood by me with use of the above AI tools for learning, understanding and clarification. 
+   - Portions of the code structure and logic were guided by help from chatGPT (OpenAI) and Claude (Anthropic). 
+   - Additionally, textures mentioned above were generated with help from Gemini (Google).
+   - Specific help included assistance with Three.js, camera and scene setup, camera transitions, ship movements and mesh rendering. 
+   - All code was written and understood by me with use of the above AI tools for learning, understanding and clarification. 
