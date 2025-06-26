@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beyond the Blue Marble</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <canvas id="solarCanvas"></canvas>
+    <div id = "sidebar" style = "opacity: 0;">
+        <h3 style = "text-align: center;" id = "sidebarTitle" style = "opacity: 0;">Click to Explore</h3>
+        <ul id = "sidebarList"></ul>
+    </div>
+    <div id = "infoPane" style = "display: none;">
+        <h3 id = "infoTitle">Planet Name</h3>
+        <p id = "X">X</p>
+        <p id = "status">Status</p>
+        <p id = "infoSize">Diameter:</p>
+        <p id = "infoDistance">Distance</p>
+        <p id = "infoMoonDistance">Distance from planet</p>
+        <p id = "orbit">Orbit</p>
+        <p id = "day">Day</p>
+        <p id = "temp">Temperature</p>
+        <p id = "atmosComp">Atmosphere</p>
+        <p id = "moonNum">Moons</p>
+        <p id = "funFact">Fact</p>
+    </div>
+        <button id = "playPause" style = "opacity: 0;">Pause</button>
+        <button id = "trailToggle" style = "opacity: 0;">Trails Off</button>
+        <p id = "speedDisplay" style = "opacity: 0;">1x</p>
+        
+        <input type = "range" id = "speedSlider" min = "-2" max = "2" step = "0.001" value = "0" style = "width: 300px;" style = "opacity: 0;">
+        <button id = "cockpitButton" style = "opacity: 0;">Enter freeroam</button>
+        <p id = "cockpitControls">WASD: move ship | Q/E: roll ship | Arrow keys: turn/move up-down</p>
+    <script type="module" src="main.js"></script>
+</body>
+</html>
